@@ -3,3 +3,4 @@ problem 1 :
 ->set env
 ->php arisan migrate
 ->php artisan seed
+->php artisan serve
